@@ -1,0 +1,15 @@
+{
+	"name": "projectcicd-dev-vivek-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b663b79f-f7f2-4d45-a329-4cb955616e30",
+		"tenantId": "1c27fe5c-e67a-4b6e-9be7-2e399a8dfb91"
+	}
+}
